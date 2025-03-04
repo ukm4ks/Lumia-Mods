@@ -18,6 +18,15 @@ To download the latest version of the **Lumia Modpack**, visit our releases page
 
 🔗 [Lumia Modpack Releases](https://github.com/ukm4ks/Lumia-Mods/releases)
 
+## 🌐 **Lumia Mod Server**
+
+Join our Minecraft server and enjoy the **Lumia** with your friends!
+
+- **Server IP**: `195.189.63.23`
+- **Version**: **Fabric 1.20.1**
+  
+Make sure to install the mods before connecting to the server for the full experience!
+
 ## 🔧 Installation Guide
 
 Follow these simple steps to get started with Fabric on **Legacy Launcher** and **TLauncher**.
