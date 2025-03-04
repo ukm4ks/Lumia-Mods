@@ -12,20 +12,26 @@ Here is a list of mods that are currently available for Fabric:
 > **Note:** Be sure to always check for updates and compatibility with the latest build versions!
 > The release build also contains **Sodium** and **Iris Shaders** you can remove them if you don't need them.
 
+## 🔽 Download Lumia Modpack
+
+To download the latest version of the **Lumia Modpack**, visit our releases page:
+
+🔗 [Lumia Modpack Releases](https://github.com/ukm4ks/Lumia-Mods/releases)
+
 ## 🔧 Installation Guide
 
 Follow these simple steps to get started with Fabric on **Legacy Launcher** and **TLauncher**.
 
-### 📝 **Installing Fabric on  Legacy Launcher**
+### 📝 **Installing Fabric on Legacy Launcher**
 
 1. **Download and Install Legacy Launcher** if you haven't already: [Legacy Launcher Website](https://llaun.ch/ru).
 2. **Launch Legacy Launcher** and go to version selection.
-4. In the **version** section, select **Fabric 1.20.1** (you may need to download it if it's not available).
-5. Click **“Install”** to complete the installation.
-6. Navigate to the mods folder:  
+3. In the **version** section, select **Fabric 1.20.1** (you may need to download it if it's not available).
+4. Click **“Install”** to complete the installation.
+5. Navigate to the mods folder:  
    - Open **File Explorer** and go to: `C:\Users\User\AppData\Roaming\.tlauncher\legacy\Minecraft\game\mods`.  
-7. Copy the mods from the provided archive into this folder.
-8. Once done, you can start playing with Fabric mods on your server!
+6. Copy the mods from the provided archive into this folder.
+7. Once done, you can start playing with Fabric mods on your server!
 
 ### 📝 **Installing Fabric on TLauncher**
 
